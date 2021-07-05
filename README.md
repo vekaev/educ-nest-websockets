@@ -1,3 +1,3 @@
-Chat with rooms and alerts.
-Backend: NestJs
-Frontend: VueJs
+## Chat with rooms and alerts.
+ - Backend: NestJs
+ - Frontend: VueJs
